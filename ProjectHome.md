@@ -1,0 +1,1 @@
+Sistema que visa controlar todo processo de adoção de uma ONG da igreja.
